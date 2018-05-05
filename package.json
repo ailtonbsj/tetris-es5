@@ -1,0 +1,37 @@
+{
+  "name": "tetris-es5",
+  "version": "1.0.0",
+  "description": "A tetris game using ES5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "./node_modules/.bin/gulp",
+    "build": "./build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ailtonbsj/tetris-es5.git"
+  },
+  "keywords": [
+    "tetris",
+    "es5",
+    "oo",
+    "prototype"
+  ],
+  "author": "ailtonbsj <ailton.ifce@gmail.com> (https://ailtonbsj.wordpress.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ailtonbsj/tetris-es5/issues"
+  },
+  "homepage": "https://github.com/ailtonbsj/tetris-es5#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "browserify": "^16.2.0",
+    "gulp": "^3.9.1",
+    "gulp-cli": "^2.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
