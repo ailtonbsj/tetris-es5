@@ -7,7 +7,7 @@ A classic game of Tetris with ES5.
 You can install the App for Android. [Clique here!](https://play.google.com/store/apps/details?id=br.ailtonbsj.tetris_es5)
 
 
-You can play this game using a browser like chrome. [Click here to play!](https://rawgit.com/ailtonbsj/tetris-es5/master/index.html)
+You can play this game using a browser like chrome. [Click here to play!](https://ailtonbsj.github.io/tetris-es5/)
 
 ## Installation
 
